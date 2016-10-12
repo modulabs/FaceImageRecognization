@@ -1,0 +1,71 @@
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcublas.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcudnn.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcufft.so locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcuda.so.1 locally
+I tensorflow/stream_executor/dso_loader.cc:108] successfully opened CUDA library libcurand.so locally
+I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:925] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:102] Found device 0 with properties: 
+name: GeForce GTX 980
+major: 5 minor: 2 memoryClockRate (GHz) 1.2155
+pciBusID 0000:03:00.0
+Total memory: 4.00GiB
+Free memory: 3.65GiB
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:126] DMA: 0 
+I tensorflow/core/common_runtime/gpu/gpu_init.cc:136] 0:   Y 
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:838] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 980, pci bus id: 0000:03:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:838] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 980, pci bus id: 0000:03:00.0)
+I tensorflow/core/common_runtime/gpu/gpu_device.cc:838] Creating TensorFlow device (/gpu:0) -> (device: 0, name: GeForce GTX 980, pci bus id: 0000:03:00.0)
+Iteration 1/50
+Iteration 2/50
+Iteration 3/50
+Iteration 4/50
+Iteration 5/50
+Iteration 6/50
+Iteration 7/50
+Iteration 8/50
+Iteration 9/50
+Iteration 10/50
+Iteration 11/50
+Iteration 12/50
+Iteration 13/50
+Iteration 14/50
+Iteration 15/50
+Iteration 16/50
+Iteration 17/50
+Iteration 18/50
+Iteration 19/50
+Iteration 20/50
+Iteration 21/50
+Iteration 22/50
+Iteration 23/50
+Iteration 24/50
+Iteration 25/50
+Iteration 26/50
+Iteration 27/50
+Iteration 28/50
+Iteration 29/50
+Iteration 30/50
+Iteration 31/50
+Iteration 32/50
+Iteration 33/50
+Iteration 34/50
+Iteration 35/50
+Iteration 36/50
+Iteration 37/50
+Iteration 38/50
+Iteration 39/50
+Iteration 40/50
+Iteration 41/50
+Iteration 42/50
+Iteration 43/50
+Iteration 44/50
+Iteration 45/50
+Iteration 46/50
+Iteration 47/50
+Iteration 48/50
+Iteration 49/50
+Iteration 50/50
+  content loss: 1.74782e+06
+    style loss: 526632
+       tv loss: 185773
+    total loss: 2.46022e+06

@@ -1,0 +1,4 @@
+model_checkpoint_path: "cnn_emotion.ckpt-350"
+all_model_checkpoint_paths: "cnn_emotion.ckpt-250"
+all_model_checkpoint_paths: "cnn_emotion.ckpt-300"
+all_model_checkpoint_paths: "cnn_emotion.ckpt-350"
